@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Mindgo Form',
+      title: 'Mindgo Formm',
       theme: ThemeData(
         // is not restarted.
         primarySwatch: Colors.green,
